@@ -1,5 +1,7 @@
 ## master (unreleased)
 
+- Add histogram support to `perf:library` (https://github.com/schneems/derailed_benchmarks/pull/169)
+
 ## 1.6.0
 
 - Added the `perf:app` command to compare commits within the same application. (https://github.com/schneems/derailed_benchmarks/pull/157)
